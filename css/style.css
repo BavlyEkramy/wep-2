@@ -489,9 +489,6 @@ header .search i , header .search input{
     font-size: 14px;
     font-weight: bold;
 }
-.back-overlay .bttn:hover{
-    background-color: #e6c2b6;
-}
 .btn{
     text-align: center;
 }
@@ -518,7 +515,6 @@ header .search i , header .search input{
     .Product .category-info{
         margin-top: 37vh;
     }
-    /*//////////////*/
     .Product .category-item{
         height: 50vh
     }
