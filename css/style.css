@@ -481,8 +481,8 @@ header .search i , header .search input{
     transform: translateX(-50%);
 }
 .back-overlay .bttn{
-    width: 30px;
-    height: 30px;
+    width: 26px;
+    height: 26px;
     border-radius: 50%;
     border: 0px solid #9f3c3c;
     background-color: #f0e4e0;
